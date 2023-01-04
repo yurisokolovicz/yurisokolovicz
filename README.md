@@ -1,4 +1,4 @@
-Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times.
+Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
 I am passionate about technology with deep knowledge in science; Contact: yurisokolovicz@gmail.com
 <div align="center">
   <a href="https://github.com/yurisokolovicz">
