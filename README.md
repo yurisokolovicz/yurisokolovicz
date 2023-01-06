@@ -13,4 +13,3 @@ I am passionate about technology with deep knowledge in science; Contact: yuriso
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
