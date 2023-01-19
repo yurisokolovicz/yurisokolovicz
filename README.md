@@ -7,7 +7,7 @@ Due to several years in contact with exact sciences, I have the ability to solve
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⚡ My web page is: www.yurisokolovicz.com
 * ⭐ English speaker
-* 🧠 I'm learning Advanced Javascript, CSS and Web Designs.
+* 🧠 I'm learning Advanced Javascript, CSS and Web Design.
 
 Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
 I am passionate about technology with deep knowledge in science.
