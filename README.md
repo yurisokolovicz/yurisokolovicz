@@ -1,9 +1,6 @@
 Hi 👋 My name is Yuri
 ==========================
 
-Front-end Web Developer
------------------------------
-
 Due to several years in contact with exact sciences, I have the ability to solve problems, excellent communication, presentation and publication of results in cientific journals.
 
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
