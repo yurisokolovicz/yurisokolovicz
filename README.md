@@ -1,11 +1,17 @@
+Hi 👋 My name is Yuri Sokolovicz, Ph.D.
+==========================
+
+Front-end Web Developer
+-----------------------------
+
 I'am a Double Ph.D. Researcher (FRANCE 2019, BRAZIL 2019) ando also an enthusiastic Front-end Web Dev. Due to several years in contact with exact sciences, I have the ability to solve problems, excellent communication, presentation and publication of results in cientific journals.
 
-🌍 I'm based in Rio de Grande do Sul, Brazil
-✉️ You can contact me at yurisokolovicz@gmail.com
-⚡ My web page is: www.yurisokolovicz.com
-🚀 I'm available for working
-🧠 I'm learning Advanced Javascript, CSS and Web Designs.
-🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+* 🌍 I'm based in Rio de Grande do Sul, Brazil
+* ✉️ You can contact me at yurisokolovicz@gmail.com
+* ⚡ My web page is: www.yurisokolovicz.com
+* 🚀 I'm available for working
+* 🧠 I'm learning Advanced Javascript, CSS and Web Designs.
+* 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 
 Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
 I am passionate about technology with deep knowledge in science.
@@ -15,6 +21,8 @@ I am passionate about technology with deep knowledge in science.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisokolovicz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+### Skills
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
