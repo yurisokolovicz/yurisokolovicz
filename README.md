@@ -1,5 +1,14 @@
+I'am a Double Ph.D. Researcher (FRANCE 2019, BRAZIL 2019) ando also an enthusiastic Front-end Web Dev. Due to several years in contact with exact sciences, I have the ability to solve problems, excellent communication, presentation and publication of results in cientific journals.
+
+🌍 I'm based in Rio de Grande do Sul, Brazil
+✉️ You can contact me at yurisokolovicz@gmail.com
+⚡ My web page is: www.yurisokolovicz.com
+🚀 I'm available for working
+🧠 I'm learning Advanced Javascript, CSS and Web Designs.
+🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+
 Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
-I am passionate about technology with deep knowledge in science; Contact: yurisokolovicz@gmail.com
+I am passionate about technology with deep knowledge in science.
 
 <div align="center">
   <a href="https://github.com/yurisokolovicz">
