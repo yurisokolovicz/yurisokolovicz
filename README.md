@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-Due to several years in contact with exact sciences, I have developed the ability to learn fast, solve problems and specially work under pressure. I have excellent skills in communication, presentation and publication of results in cientific journals.
+Due to several years in contact with exact sciences, I have developed the ability to learn fast, solve problems and specially work under pressure. I have excellent  skills, e.g. communication, presentation and publication of the results in scientific journals.
 
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ⚡ My web page is: www.yurisokolovicz.com
