@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-Due to several years in contact with exact sciences, I have developed the ability to learn fast, complex problem solving, critical thinking skills and specially work under pressure. Furthermore, I have obtained good social skills, e.g. communication, presentation and publication of the results in scientific journals.
+Due to several years in contact with exact sciences, I have developed the ability to learn fast, solve complex problem, critical thinking skills and specially work under pressure. Furthermore, I have obtained good social skills, e.g. communication, presentation and publication of the results in scientific journals.
 
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ⚡ My web page is: www.yurisokolovicz.com
