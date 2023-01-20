@@ -7,7 +7,7 @@ Due to several years in contact with exact sciences, I have developed the abilit
 * ⚡ My web page is: www.yurisokolovicz.com
 * 🧠 I'm learning Advanced Javascript, CSS and Web Design.
 * ✉️ You can contact me at yurisokolovicz@gmail.com
-* ⭐ Professional English Proficiency - My degree is from an France institution in which English is one of the official languages - proficiency proof
+* ⭐ Professional English Proficiency - My Ph.D. degree is from an France institution in which English is one of the official languages - proficiency proof
 * ✈️ Totally adapted to living in another country: 1 year working in France and 2 in Italy. 
 
 Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
