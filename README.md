@@ -10,7 +10,6 @@ Due to several years in contact with exact sciences, I have developed the abilit
 * 🧠 I'm learning Advanced Javascript, CSS and Web Design.
 
 Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
-I am passionate about technology with deep knowledge in science.
 
 <div align="center">
   <a href="https://github.com/yurisokolovicz">
