@@ -1,16 +1,15 @@
 Hi 👋 My name is Yuri
 ==========================
 
-Inevitably, due to several years (Master & double-Ph.D.) in contact with exact sciences, I have developed the ability to learn fast, solve complex problems, have critical thinking skills and specially work under pressure. Furthermore, I have obtained good social skills, e.g. communication, presentation and publication of the results in scientific journals. I was dragged into programming for the first time in late 2022 to learn python to develop software for nuclear magnetic resonance (NMR) equipments; but I fall in love with javascript.
-
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
+* 🚀 I have a double Ph.D. degree in science
+* ☕ I have two years experience as Post-doc in Italy
 * ⚡ My web page is: www.yurisokolovicz.com
-* 🧠 I'm learning Advanced Javascript, CSS and Web Design.
+* 🧠 I'm learning Python, R and Data Science.
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
 * ✈️ Totally adapted to living in another country: 1 year working in France and 2 in Italy (Postdoctoral Fellowship). 
 
-Don't be afraid of the man who knows a thousand languages, be afraid of the man who has trained the same language a thousand times. JS is true power.
 
 <div align="center">
   <a href="https://github.com/yurisokolovicz">
@@ -20,6 +19,7 @@ Don't be afraid of the man who knows a thousand languages, be afraid of the man 
 ### Skills
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
