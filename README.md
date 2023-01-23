@@ -3,7 +3,7 @@ Hi 👋 My name is Yuri
 
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
-* ⚡ 6 years experience in Chemistry (Senior)
+* ⚡ 6 years experience in Chemistry
 * 🧠 I'm learning Python and Data Science.
 * ☕ My web page is: www.yurisokolovicz.com
 * 🥷 Check out my Portfolio at: https://yurisokolovicz.github.io/
