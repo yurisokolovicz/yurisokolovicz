@@ -3,13 +3,13 @@ Hi 👋 My name is Yuri
 
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
-* ⚡ I have two years experience as Post-doc in Italy
+* ⚡ 6 years experience in Chemistry (Senior)
 * 🧠 I'm learning Python, R and Data Science.
 * ☕ My web page is: www.yurisokolovicz.com
 * 🥷 Check out my Portfolio at: https://yurisokolovicz.github.io/
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
-* ✈️ Totally adapted to living in another country: 1 year living in France and 2 in Italy. 
+* ✈️ Totally adapted to living in another country: 1 year living in France and 2 in Italy (Postdoc). 
 
 
 <div align="center">
