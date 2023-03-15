@@ -1,9 +1,9 @@
 Hi 👋 My name is Yuri
 ==========================
 
+* 🧠 Currently learning  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
-* 🧠 Learning React
 * 🥷 Check out my Portfolio at: https://yurisokolovicz.github.io/
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
@@ -12,7 +12,7 @@ Hi 👋 My name is Yuri
 
 <div align="center">
   <a href="https://github.com/yurisokolovicz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisokolovicz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurisokolovicz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Skills
