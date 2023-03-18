@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 Currently learning  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+* 🧠 Currently learning  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
 * 🥷 Check out my Portfolio at: https://yurisokolovicz.github.io/
