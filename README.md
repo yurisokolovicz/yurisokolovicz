@@ -27,5 +27,6 @@ Hi 👋 My name is Yuri
 </div>
   
   ### Personal Work Station
+![IMG-9212](https://user-images.githubusercontent.com/121908988/230080155-c63e1bc7-a081-4a59-864c-6666ad35c890.jpg)
 
-![IMG-8658](https://user-images.githubusercontent.com/121908988/226429102-4e40dd02-938a-4d85-b633-c3ed90e2684a.jpg)
+
