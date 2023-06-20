@@ -4,7 +4,7 @@ Hi 👋 My name is Yuri
 * 🧠 Currently learning the Back-End <img align="center" alt="Rafa-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
-* 🥷 Check out my Portfolio at: yur1.io
+* 🥷 Check out my Portfolio at: https://yur1.io
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
 * ✈️ Totally adapted to living in another country: 1 year living in France and 2 in Italy (Postdoc). 
