@@ -31,7 +31,8 @@ Hi 👋 My name is Yuri
 </div>
   
   ### Personal Work Station
-![IMG-9215](https://user-images.githubusercontent.com/121908988/230083416-0d18db88-a8e9-4e77-a5e5-c39f47704fd3.jpg)
+![IMG-7765](https://github.com/yurisokolovicz/yurisokolovicz/assets/121908988/9ba4e519-a523-47fd-b601-6bc731a53c01)
+
 
 
 
