@@ -31,7 +31,7 @@ Hi 👋 My name is Yuri
 </div>
   
   ### Personal Work Station
-  Macbook M2 Pro 16" 2023 with 12‑core CPU, 19‑core GPU, 16‑core Neural Engine, 16GB, 512GB SSD
+  * Macbook M2 Pro 16" 2023 with 12‑core CPU, 19‑core GPU, 16‑core Neural Engine, 16GB, 512GB SSD
   
 ![IMG-7765](https://github.com/yurisokolovicz/yurisokolovicz/assets/121908988/9ba4e519-a523-47fd-b601-6bc731a53c01)
 
