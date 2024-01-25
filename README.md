@@ -18,6 +18,7 @@ Hi 👋 My name is Yuri
 ### Skills
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Yuri-python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yuri-mongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Yuri-express" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
    <img align="center" alt="Yuri-node" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
