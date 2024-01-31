@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 I am a MERN Fullstack Web Developer <img align="center" alt="Rafa-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+* 🧠 I am a Fullstack Software Engineer <img align="center" alt="Rafa-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
 * 🥷 Check out my Portfolio at: https://yur1.io
