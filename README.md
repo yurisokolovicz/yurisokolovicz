@@ -2,7 +2,7 @@ Hi 👋 My name is Yuri
 ==========================
 
 * 🧠 I am a Fullstack Software Engineer and Data Scientist with more than 6 years of experience in Science
-* 🚀 I have a double Ph.D. degree in Science
+* 🚀 I have a double Ph.D. degree and 2 years of Postdoc in Science
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🥷 Check out my Portfolio at: https://yur1.io
 * ✉️ You can contact me at yurisokolovicz@gmail.com
