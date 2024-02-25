@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 I am a Fullstack Software Engineer and Data Scientist
+* 🧠 I am a Fullstack Software Engineer and Data Scientist with more than 6 years of experience in Science
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * 🚀 I have a double Ph.D. degree in Science
 * 🥷 Check out my Portfolio at: https://yur1.io
