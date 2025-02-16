@@ -1,8 +1,9 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 I am a Fullstack Software Engineer with 1 year of experience as Software Engineer in California - USA
-* 🚀 I have a double Ph.D. degree and 2 years of Postdoc in Science
+* 🧠 I am a MERN Fullstack Software Engineer with 1 year of experience as Software Engineer in California - USA
+* 🧠 My focus is on the development of Front-end React Apps
+* 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
