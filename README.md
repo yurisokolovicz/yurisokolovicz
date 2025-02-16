@@ -3,7 +3,7 @@ Hi 👋 My name is Yuri
 
 * 🧠 I am a MERN Fullstack Software Engineer with 2 year of experience, 1 year as Software Engineer in California - USA
 * 🙅 My focus is on the development of Front-end React Apps
-* ⚡ I personally registered 10 software programs with INPI (Instituto Nacional da Propriedade Industrial) in Brazil; Register number: BR512024000238-3, BR512024000260-0, BR512024000278-2, BR512024000348-7, BR512024000415-7, BR512024000421-1, BR512024000433-5, BR512024000497-1, BR512024000553-6, BR512024000448-3.
+* ⚡ I personally registered 10 softwares programs at INPI (Instituto Nacional da Propriedade Industrial) in Brazil; Register number: BR512024000238-3, BR512024000260-0, BR512024000278-2, BR512024000348-7, BR512024000415-7, BR512024000421-1, BR512024000433-5, BR512024000497-1, BR512024000553-6, BR512024000448-3.
 * 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ✉️ You can contact me at yurisokolovicz@gmail.com
