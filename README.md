@@ -3,7 +3,7 @@ Hi 👋 My name is Yuri
 
 * 🧠 I am a MERN Fullstack Software Engineer with 2 year of experience, 1 year as Software Engineer in California - USA
 * 🙅 My focus is on the development of Front-end React Apps
-* 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science, 1 year working as AI developer using Python, Anaconda and Jupyter for the optimization of farmaceutical drugs production.
+* 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science, 1 year working as Machine Learning/AI developer using Python, Anaconda and Jupyter for the optimization of farmaceutical drugs production.
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 * ⭐ Professional English Proficiency - My Ph.D. degree is from a France institution in which English is one of the official languages - proficiency proof
