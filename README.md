@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 I am a Fullstack Software Engineer and Data Scientist with more than 6 years of experience in Science and 1 year of experience as Software Engineer in California - USA
+* 🧠 I am a Fullstack Software Engineer with 1 year of experience as Software Engineer in California - USA
 * 🚀 I have a double Ph.D. degree and 2 years of Postdoc in Science
 * 🌍 I'm based in Rio de Grande do Sul, Brazil
 * ✉️ You can contact me at yurisokolovicz@gmail.com
