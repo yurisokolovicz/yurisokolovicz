@@ -6,7 +6,7 @@ Hi 👋 My name is Yuri
 * 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science, working with Computational Chemistry (Quantum Mechanics); Machine Learning for the optimization of farmaceutical drugs production; and software development.
 * ⭐ Professional English Proficiency
 * ✈️ Totally adapted to living in another country.
-* ⚡ I personally registered 10 softwares programs at INPI (Instituto Nacional da Propriedade Industrial) in Brazil; Register number: BR512024000238-3, BR512024000260-0, BR512024000278-2, BR512024000348-7, BR512024000415-7, BR512024000421-1, BR512024000433-5, BR512024000497-1, BR512024000553-6, BR512024000448-3.
+* ⚡ I personally registered 10 softwares at INPI (Instituto Nacional da Propriedade Industrial) in Brazil; Register number: BR512024000238-3, BR512024000260-0, BR512024000278-2, BR512024000348-7, BR512024000415-7, BR512024000421-1, BR512024000433-5, BR512024000497-1, BR512024000553-6, BR512024000448-3.
 * 🙋 I could be a valuable addition to your company.
 * ✉️ You can contact me at yurisokolovicz@gmail.com
 
