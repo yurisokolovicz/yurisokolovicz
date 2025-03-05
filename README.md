@@ -1,7 +1,7 @@
 Hi 👋 My name is Yuri
 ==========================
 
-* 🧠 I am a React Front-end Developer with 2 year of experience, 1 year as Software Engineer in California - USA.
+* 🧠 I am a Fullstack Developer (NodeJS / React) with 2 year of experience, 1 year as Software Engineer in California - USA.
 * 🙅 My focus is on the development of Front-end React Apps.
 * 🚀 I have a double Ph.D. degree and 3 years of Postdoc in Science, working with Computational Chemistry (Quantum Mechanics); Machine Learning for the optimization of farmaceutical drugs production; and software development.
 * ⭐ Professional English Proficiency
